@@ -1,3 +1,1 @@
-# hello-world-1
-just another repository
-winta
+hello my name is winta, I love to travel
